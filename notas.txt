@@ -1,0 +1,4 @@
+Bienvenida al curso
+
+	
+Calcula el area de un triangulo. Creando funciones
